@@ -16,6 +16,8 @@ https://www.jianshu.com/p/c5d2251eb7bc
 
 https://www.cnblogs.com/zhangwuji/p/9159366.html
 
+https://www.cnblogs.com/doufy/p/12050346.html
+
 ## Zookeeper Cluster
 
 Zookeeper容器的虚拟化集群，使用Docker-compose构建，通过主机网络进行沟通
